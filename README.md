@@ -20,9 +20,13 @@ Resources Needed:
 -Barcode on the lids of the sushi plates
 
 
+
+
 For Realistic Use:
 
 If this was to be used in an actual restraunt, the restraunt would adjust the list to include their own menu. 
+
+
 
 
 Extentions:
