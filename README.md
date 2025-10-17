@@ -12,9 +12,13 @@ Then everylap the system will display how long the dish has been on the train.
 Resources Needed:
 
 -The Code Attached
+
 -A computor to Run IDLE
+
 -A Barcode Scanner and Barcode Stand
+
 -Barcode on the lids of the sushi plates
+
 
 For Realistic Use:
 
