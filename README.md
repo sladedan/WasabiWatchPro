@@ -1,37 +1,32 @@
-# WasabiWatchPro
+WasabiWatchPro
 
-Wassabi Watch Pro is a modern solution to Sushi Train food saftey issues. 
-Sushi Trains are a common dining experience particuarly in Australia however the length of time food stays on trains particuarly un refergeriated is somehting that should be a lot closley monitored to avoid food being chucked out when it doesnt need to, and ensure food is thrown if it has been on too long. In addition this is important due to the amount of fresh fish. 
-
-How WasabiWatchPro would be implmented:
-
-A retraunt would use this and have the scanner at a singular point of the train. 
-As plates are added to the train they would need to be inputed into the system. 
-Then everylap the system will display how long the dish has been on the train. 
-
-Resources Needed:
-
--The Code Attached
-
--A computor to Run IDLE
-
--A Barcode Scanner and Barcode Stand
-
--Barcode on the lids of the sushi plates
+WasabiWatchPro is a modern solution to Sushi Train food safety issues.
+Sushi Trains are a common dining experience, particularly in Australia; however, the length of time food stays on the train — especially when unrefrigerated — is something that should be more closely monitored. Doing so would help prevent food from being thrown out when it doesn’t need to be and ensure that food is discarded when it has been on the train for too long. This is especially important given the amount of fresh fish used in Sushi Train dishes.
 
 
+How WasabiWatchPro Would Be Implemented
+
+A restaurant would use this system by setting up a barcode scanner at a fixed point on the train.
+As plates are added to the train, they would be scanned and entered into the system.
+Each time a plate passes the scanner, the system would update and display how long that particular dish has been on the train.
+This process would allow staff to easily monitor food circulation and ensure everything remains fresh and within safe serving times.
 
 
-For Realistic Use:
+Resources Needed
 
-If this was to be used in an actual restraunt, the restraunt would adjust the list to include their own menu. 
+The attached code
+A computer to run IDLE
+A barcode scanner and stand
+Barcodes on the lids of sushi plates
 
 
+For Realistic Use
+
+If WasabiWatchPro were to be used in an actual restaurant, the business would customise the system to include its own menu and plate types. This would make the tracking process more accurate and tailored to the restaurant’s specific offerings.
 
 
-Extentions:
+Extensions
 
-  When the restraunt uploads their menu they should also upload how long each dish can stay on the train for. 
-  The code could then display an error message/alarm if the dish has extended the reccomended time limit. 
-  The code should also run on a smaller computer not a laptop as this would be impractical in a restraunt. 
-  
+When uploading their menu, restaurants could also include how long each dish can safely stay on the train.
+The system could then display an error message or alarm when a dish has exceeded its recommended time limit.
+For practical use in a restaurant, the program should ideally run on a smaller computer rather than a laptop to save space and improve convenience.
